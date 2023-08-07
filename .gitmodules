@@ -1,0 +1,3 @@
+[submodule "audioclient"]
+	path = audioclient
+	url = https://git.scc.kit.edu/isl/lt-middleware/audioclient

@@ -1,12 +1,14 @@
 
-for file in *.opus
+filetype=opus
+
+for file in *.$filetype
 do
 
-if [ -f "${file%.opus}.seg" ]; then
+if [ -f "${file%.$filetype}.seg" ]; then
     continue
 fi
 
-python audioclient/client.py -i ffmpeg -f "$file" --asr-kv version=offline --asr-kv segmenter=SHAS --ffmpeg-speed -1 --output-file "${file%.mp3}.seg" --no-textsegmenter --asr-kv dummy_asr=True --asr-kv max_segment_length=10
+python audioclient/client.py -i ffmpeg -f "$file" --asr-kv version=offline --asr-kv segmenter=SHAS --ffmpeg-speed -1 --output-file "${file%.$filetype}.seg" --no-textsegmenter --asr-kv dummy_asr=True --asr-kv max_segment_length=10 --no-logging
 
 done
 

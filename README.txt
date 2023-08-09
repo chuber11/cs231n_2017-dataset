@@ -18,3 +18,6 @@ run_shas.sh for segmenting the audio
 
 5)
 bash generate_segments.sh
+
+6)
+bash convert_audio.sh

@@ -76,7 +76,7 @@ for pdf_path in glob("*.pdf"):
                 words.add(w)
     print(words)
 
-    with open(pdf_path[:-len("pdf")]+"words", "w") as f:
+    with open("wordfiles/"+pdf_path[:-len("pdf")]+"words", "w") as f:
         for w in words:
             f.write(w+"\n")
 

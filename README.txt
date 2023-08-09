@@ -2,6 +2,7 @@
 1)
 Download slides from
 http://cs231n.stanford.edu/slides/2017
+to pdf
 
 2)
 Download audio with

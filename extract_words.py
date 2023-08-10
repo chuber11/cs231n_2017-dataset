@@ -49,7 +49,7 @@ def clean_line(line):
 
 training_data = set(line.strip().split()[0].lower() for line in open("training_data.txt", encoding="utf-8"))
 
-for pdf_path in glob("*.pdf"):
+for pdf_path in glob("pdf/*.pdf"):
     print(pdf_path)
 
     text_pdf = pdf_to_text(pdf_path) # extract text of pdf

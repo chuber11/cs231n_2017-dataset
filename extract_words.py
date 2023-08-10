@@ -50,6 +50,6 @@ for pdf_path in sorted(glob("pdf/*.pdf"), key=lambda x:(len(x),x)):
     print(words)
 
     with open("wordfiles/"+pdf_path[len("pdf/"):-len("pdf")]+"words", "w", encoding="utf-8") as f:
-        for w in words:
+        for w in sorted(words):
             f.write(w+"\n")
 

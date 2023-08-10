@@ -4,7 +4,6 @@ Benchio
 Bengio
 CONV
 CVPR
-Character-level
 Concat
 Courville
 Daan
@@ -20,7 +19,6 @@ ICCV
 ICLR
 ICML
 IEEE
-In-class
 Jozefowicz
 Kaiming
 Karpathy
@@ -28,13 +26,8 @@ Kavukcuoglu
 Kiros
 Kyunghyun
 LSTM
-Mnih
 Non-Sequence
 Pascanu
-PoolConv
-PoolFC
-PoolPoolPoolPoolSoftmax
-PoolSimilar
 RNN
 RNNs
 ResNet
@@ -47,11 +40,7 @@ VGG
 VQA
 Vinyals
 Visual-Semantic
-Whh
-WhhT
 Wierstra
-Wih
-Wxh
 Yoshua
 Zemel
 Zhu
@@ -59,8 +48,6 @@ Zitnick
 backpropagate
 convconv
 elementwise
-encoder-decoder
-fWh
 gvector
 hatsample
 interpretable
@@ -68,12 +55,3 @@ params
 seq
 tanh
 tanhsigmoid
-test-time
-time-step
-vWih
-xRNN
-xWRNN
-xtW
-xtf
-yWe
-yusually

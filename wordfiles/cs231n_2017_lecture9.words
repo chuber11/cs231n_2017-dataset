@@ -1,15 +1,12 @@
 AWS
 AlexNet
-AlexNet-level
 BN
-CNN-based
 CNTK
 CONV
 Canziani
 Cifar
 Concat
 Concatenate
-Conv-Pool
 Culurciello
 Fei-Fei
 FractalNet
@@ -19,7 +16,6 @@ GoogLeNet
 Hyperparameters
 ILSVRC
 Iandola
-In-class
 Keutzer
 Krizhevsky
 LRN
@@ -27,10 +23,6 @@ LeCun
 MXNet
 Moskewicz
 Paszke
-PoolBeyond
-PoolConv
-PoolFC
-PoolPoolPoolPoolSoftmax
 ResNeXt
 ResNet
 ResNets
@@ -41,7 +33,6 @@ SqueezeNet
 Subsampling
 Szegedy
 Tue
-Ultra-Deep
 VGG
 VGGNet
 Xie
@@ -50,11 +41,8 @@ Zagoruyko
 Zeiler
 Zisserman
 bwd
-convBNReLU
-convconv
 cuBLAS
 cuDNN
-depth-wise
 downsample
 feedforward
 micronetwork

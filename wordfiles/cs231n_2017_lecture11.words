@@ -1,4 +1,3 @@
-Alexe
 BMVC
 Binarized
 CC-BY
@@ -17,7 +16,6 @@ Fei-Fei
 Fully-connected
 Girshick
 Gkioxari
-Hi-res
 High-res
 Hochreiter
 HyperQuest
@@ -36,8 +34,6 @@ Med-res
 MobileNet
 MultiBox
 Pinheiro
-R-CNN
-R-FCN
 RNN
 Redmon
 Region-based
@@ -58,17 +54,13 @@ Visual-Semantic
 Zisserman
 Zitnick
 arXiv
-az
 bounding-box
-bx
-bzInput
 downsampling
 filterLearnable
 filterSum
 max-pool
 normed
 objectness
-post-hoc
 pretrained
 strided
 upsampling

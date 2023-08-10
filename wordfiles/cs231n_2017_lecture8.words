@@ -2,7 +2,6 @@ AWS
 AlexNet
 Andrej
 Autograd
-C-like
 CC-BY
 CNTK
 CONV
@@ -14,7 +13,6 @@ DataLoader
 DataLoaders
 DeepDream
 DeepMind
-FC-C
 Fei-Fei
 GHz
 GPU
@@ -46,13 +44,8 @@ Tensorboard
 TestTransfer
 VGG
 Visdom
-Visual-Semantic
 WindowDataLayer
 backprop
-cNumpy
-cPyTorch
-cTensorFlow
-caffemodel
 contrib
 cpp
 cuBLAS
@@ -65,7 +58,6 @@ initializer
 lossees
 minibatches
 minibatching
-multi-gpu
 multithreading
 ndarray
 optim
@@ -78,6 +70,4 @@ readthedocs
 snipppet
 tf
 torchvision
-two-layer
 unoptimized
-well-optimized

@@ -9,11 +9,9 @@ Bottou
 CC-BY
 CNX
 CONV
-CONV-RELU
 CVPR
 Ciresan
 ConvNet
-ConvNetJS
 ConvNets
 Convolve
 Cumnock
@@ -26,7 +24,6 @@ GPU
 Gatys
 Girschick
 Girshick
-Gradient-based
 Haffner
 Honglak
 Inceptionism
@@ -34,14 +31,10 @@ Kaiming
 Karpathy
 Krizhevsky
 LeCun
-Mnih
 NEURONES
 Neocognitron
 OpenStax
-Pre-trained
-R-CNN
 Retinotopy
-SCSCSC
 STRIATE
 Salakhutdinov
 Satinder
@@ -59,10 +52,5 @@ Xiaoshi
 Xiaoxiao
 Zeiler
 Zisserman
-btw
 convolved
-elementwise
-params
 photocells
-ymax
-zero-padding

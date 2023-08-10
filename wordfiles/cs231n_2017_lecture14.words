@@ -11,7 +11,6 @@ Q-values
 RNN
 action-value
 approximator
-atState
 downsampling
 feedforward
 greyed
@@ -21,10 +20,7 @@ minibatch
 minibatches
 non-differentiable
 question-answering
-rtReinforcement
 sample-efficiency
 sample-efficient
-stReinforcement
 state-action
-time-step
 timestep

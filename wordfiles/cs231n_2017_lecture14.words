@@ -1,6 +1,7 @@
 Actor-Critic
 CONV
 Cart-Pole
+Featurize
 Fei-Fei
 MDP
 Mnih
@@ -23,4 +24,5 @@ question-answering
 sample-efficiency
 sample-efficient
 state-action
+time-step
 timestep

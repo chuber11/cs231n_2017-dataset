@@ -1,12 +1,12 @@
 
 from glob import glob
-from PyPDF2 import PdfReader
+import pdftotext
 import re
 
 def pdf_to_text(file):
     with open(file, "rb") as f:
-        for page in PdfReader(f).pages:
-            yield page.extract_text()
+        for page in pdftotext.PDF(f):
+            yield page
 
 def text_to_words(text):
     words = set()

@@ -2,6 +2,10 @@ AWS
 AlexNet
 Andrej
 Autograd
+AxB
+AxC
+BxC
+C-like
 CC-BY
 CNTK
 CONV
@@ -13,6 +17,7 @@ DataLoader
 DataLoaders
 DeepDream
 DeepMind
+FC-C
 Fei-Fei
 GHz
 GPU
@@ -27,9 +32,9 @@ Krizhevsky
 LMDB
 Learnable
 MXNet
-MaxPool
 NAACL
 OpenCL
+Optimizer
 RMSProp
 Reinitialize
 ResNet
@@ -41,11 +46,13 @@ TFLearn
 TFSlim
 TensorLayer
 Tensorboard
-TestTransfer
+Two-layer
 VGG
 Visdom
+Visual-Semantic
 WindowDataLayer
 backprop
+caffemodel
 contrib
 cpp
 cuBLAS
@@ -56,12 +63,13 @@ finetuning
 hyperthreading
 initializer
 lossees
+maxpool
 minibatches
 minibatching
+multi-gpu
 multithreading
 ndarray
 optim
-optimizer
 placeholders
 prefetch
 pretrained
@@ -71,3 +79,4 @@ snipppet
 tf
 torchvision
 unoptimized
+well-optimized

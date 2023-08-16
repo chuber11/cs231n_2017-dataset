@@ -3,6 +3,7 @@ AlexNet
 Autoencoders
 Bethge
 Brox
+C-dimensional
 CC-BY
 CVPR
 ConvNetJS
@@ -16,8 +17,9 @@ FFT
 Fei-Fei
 Gatys
 Go-Karts
-GrabCut
+Grabcut
 Gradescope
+HyperQuest
 ICCV
 ICLR
 ICML
@@ -31,11 +33,11 @@ Levoy
 Maaten
 Mahendran
 Manjunath
+Non-parametric
 Olah
 Pretrain
 RGB
 Riedmiller
-SKYDOG
 Saliency
 Shlens
 Simonyan
@@ -53,6 +55,8 @@ Zisserman
 arXiv
 arg
 backprop
+center-bias
+co-occurrence
 feedforward
 heatmap
 multiscale

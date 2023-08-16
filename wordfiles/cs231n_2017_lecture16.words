@@ -25,7 +25,6 @@ approximator
 backprop
 cleverhans
 cross-dataset
-deeppiecewise
 high-dimensional
 inter-class
 k-NN

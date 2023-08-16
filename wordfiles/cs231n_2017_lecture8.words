@@ -12,7 +12,6 @@ CONV
 CPU-only
 CUDA
 CVPR
-DataLayer
 DataLoader
 DataLoaders
 DeepDream
@@ -26,7 +25,6 @@ GoogLeNet
 HDD
 ICLR
 IEEE
-ImageDataLayer
 Karpathy
 Krizhevsky
 LMDB
@@ -39,7 +37,6 @@ RMSProp
 Reinitialize
 ResNet
 SSD
-SolverParameter
 Sutskever
 TF-Slim
 TFLearn
@@ -50,7 +47,6 @@ Two-layer
 VGG
 Visdom
 Visual-Semantic
-WindowDataLayer
 backprop
 caffemodel
 contrib
